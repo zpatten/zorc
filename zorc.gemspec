@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Zorc::VERSION
   spec.authors       = ["Zachary Patten"]
   spec.email         = ["zachary@jovelabs.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{ZORC: Write a short summary. Required.}
+  spec.description   = %q{ZORC: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
